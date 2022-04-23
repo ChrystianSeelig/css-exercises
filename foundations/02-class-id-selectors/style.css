@@ -1,0 +1,16 @@
+.numbered-class{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #cc6c90;
+}
+#blue{
+    color:#313c9c;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#green{
+    background-color: #2f6d27;
+    font-size: 24px;
+    font-weight: bold;
+}
